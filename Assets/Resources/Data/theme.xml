@@ -1,0 +1,45 @@
+<document>
+	<theme name="Waffle">
+		<level id="1" name="Level 1">
+			<path>Waffle/level1</path>
+		</level>
+		<level id="2" name="Level 2">
+			<path>Waffle/level2</path>
+		</level>
+		<level id="3" name="Level 3">
+			<path>Waffle/level3</path>
+		</level>
+		<level id="4" name="Level 4">
+			<path>Waffle/level4</path>
+		</level>
+		<level id="5" name="Level 5">
+			<path>Waffle/level5</path>
+		</level>
+		<level id="6" name="Level 6">
+			<path>Waffle/level6</path>
+		</level>
+		<level id="7" name="Level 7">
+			<path>Waffle/level7</path>
+		</level>
+		<level id="8" name="Level 8">
+			<path>Waffle/level8</path>
+		</level>
+		<level id="9" name="Level 9">
+			<path>Waffle/level1</path>
+		</level>
+		<level id="10" name="Level 10">
+			<path>Waffle/level1</path>
+		</level>
+		<level id="11" name="Level 11">
+			<path>Waffle/level1</path>
+		</level>
+		<level id="12" name="Level 12">
+			<path>Waffle/level12</path>
+		</level>
+	</theme>
+	<theme name="Chocolate">
+		<level id="13" name="Level 1">
+			<path>Chocolate/level1</path>
+		</level>
+	</theme>
+</document>

@@ -1,0 +1,32 @@
+<document>
+	<map>
+		<tile>
+			<type>freeze</type>
+			<x>1</x>
+			<y>1</y>
+		</tile>
+		<tile>
+			<type>freeze</type>
+			<x>1</x>
+			<y>1</y>
+		</tile>
+	</map>
+	<monster>
+		<type>pizza</type>
+		<movement>LRLRLR</movement>
+	</monster>
+	<monster>
+		<type>pizza</type>
+		<movement>LRLRLR</movement>
+	</monster>
+	<item>
+		<type>health</type>
+		<x>0.5</x>
+		<y>1.5</y>
+	</item>
+	<item>
+		<type>health</type>
+		<x>0.5</x>
+		<y>1.5</y>
+	</item>
+</document>
